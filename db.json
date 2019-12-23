@@ -28,11 +28,11 @@
       "totalhoursspent": "01:00",
       "requeststatus": "Approved",
       "requesttype": "Self-Assigned",
-      "requestedby": "Abhimanyu Naruka"
+      "requestedby": "Ameya Raikar"
     },
     {
       "id": "3",
-      "category": "MANAGEMENT",
+      "category": "FEATURE",
       "workid": "12345",
       "worktitle": "test",
       "totalhoursspent": "01:00",
@@ -51,7 +51,7 @@
     },
     {
       "id": "5",
-      "category": "MANAGEMENT",
+      "category": "FEATURE",
       "workid": "12345",
       "worktitle": "test",
       "totalhoursspent": "01:00",
