@@ -1,63 +1,52 @@
 {
   "users": [
     {
-      "id": "0",
-      "category": "MANAGEMENT",
-      "workid": "12345",
-      "worktitle": "test",
-      "totalhoursspent": "01:00",
-      "requeststatus": "Approved",
-      "requesttype": "Self-Assigned",
-      "requestedby": "Abhimanyu Naruka"
+    "task":{
+        "category":"MANAGEMENT",
+        "workid":"12345",
+        "worktitle":"test56",
+        "totalhoursspent":"01:00",
+        "requeststatus":"Approved",
+        "requesttype":"Self-Assigned",
+        "requestedby":"Abhimanyu Naruka"
     },
+    "id":"vjKeJTJ"
+  },
     {
-      "id": "1",
-      "category": "MANAGEMENT",
-      "workid": "34238",
-      "worktitle": "test2",
-      "totalhoursspent": "03:00",
-      "requeststatus": "Approved",
-      "requesttype": "Self-Assigned",
-      "requestedby": "Jafar Ali"
+    "task":{
+        "category":"MANAGEMENT",
+        "workid":"12345",
+        "worktitle":"test56",
+        "totalhoursspent":"01:00",
+        "requeststatus":"Approved",
+        "requesttype":"Self-Assigned",
+        "requestedby":"Abhimanyu Naruka"
     },
+    "id":"lwQNpsY"
+  },
     {
-      "id": "2",
-      "category": "MANAGEMENT",
-      "workid": "22937",
-      "worktitle": "test3",
-      "totalhoursspent": "09:00",
-      "requeststatus": "Approved",
-      "requesttype": "Self-Assigned",
-      "requestedby": "Ameya Raikar"
+    "task":{
+        "category":"MANAGEMENT",
+        "workid":"12345",
+        "worktitle":"test56",
+        "totalhoursspent":"01:00",
+        "requeststatus":"Approved",
+        "requesttype":"Self-Assigned",
+        "requestedby":"Abhimanyu Naruka"
     },
+    "id":"gcYEAYV"
+  },
     {
-      "id": "3",
-      "category": "FEATURE",
-      "workid": "57256",
-      "worktitle": "test4",
-      "totalhoursspent": "01:20",
-      "requeststatus": "Auto-Approved",
-      "requesttype": "Self-Assigned",
-      "requestedby": "Saba Khan"
-    },{
-      "id": "4",
-      "category": "MISCELLANEOUS",
-      "workid": "72354",
-      "worktitle": "test5",
-      "totalhoursspent": "04:00",
-      "requeststatus": "Auto-Approved",
-      "requesttype": "Self-Assigned",
-      "requestedby": "Viviek Bagi"
+    "task":{
+        "category":"MANAGEMENT",
+        "workid":"12345",
+        "worktitle":"test56",
+        "totalhoursspent":"01:00",
+        "requeststatus":"Approved",
+        "requesttype":"Self-Assigned",
+        "requestedby":"Abhimanyu Naruka"
     },
-    {
-      "id": "5",
-      "category": "RESOURSE MANAGEMENT",
-      "workid": "22938",
-      "worktitle": "test6",
-      "totalhoursspent": "00:40",
-      "requeststatus": "Approved",
-      "requesttype": "Self-Assigned",
-      "requestedby": "Shreyansh Bhatt"
-    }
+    "id":"hNx1Q31"
+}
   ]
 }
